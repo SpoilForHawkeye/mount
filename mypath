@@ -1,0 +1,2 @@
+export LD_LIBRARY_PATH=/home/don/util-linux/libmount/src/.libs/;/home/don/util-linux/tests/expected/blkid/;/home/don/util-linux/libblkid/src/.libs/;/home/don/util-linux/libuuid/src/.libs/;
+

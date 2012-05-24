@@ -603,7 +603,7 @@ parse_opts (const char *options, int *flags, char **extra_opts) {
 
 	/* The propagation flags should not be used together with any other flags */
 	if (*flags & MS_PROPAGATION)
-		*flags &= MS_PROPAGATION;
+		*flags &= (MS_PROPAGATION|MS_REC);
 }
 
 /* Try to build a canonical options string.  */

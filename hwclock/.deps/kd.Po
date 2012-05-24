@@ -1,0 +1,5 @@
+kd.o: kd.c ../config.h /usr/lib/gcc/i686-linux-gnu/4.6.1/include/stddef.h
+
+../config.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6.1/include/stddef.h:

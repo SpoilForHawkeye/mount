@@ -1,0 +1,595 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/don\/util-linux\/config\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/home\/don\/util-linux\/config\/missing --run tar$/;"	m
+AM_CFLAGS	Makefile	/^AM_CFLAGS = -fsigned-char$/;"	m
+AM_CPPFLAGS	Makefile	/^AM_CPPFLAGS = \\$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 0$/;"	m
+AM_LDFLAGS	Makefile	/^AM_LDFLAGS = $/;"	m
+AM_V_CC	Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CCLD	Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_lt	Makefile	/^AM_V_lt = $(am__v_lt_$(V))$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/don\/util-linux\/config\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/don\/util-linux\/config\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/don\/util-linux\/config\/missing --run automake-1.11$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+CC	Makefile	/^CC = gcc -std=gnu99$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+CDROM_SELECT_SPEED	mount.c	1536;"	d	file:
+CFLAGS	Makefile	/^CFLAGS = -g -O2$/;"	m
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -std=gnu99 -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DATA	Makefile	/^DATA = $(dist_noinst_DATA)$/;"	m
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DISKMAJOR	mount.c	2212;"	d	file:
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(dist_man_MANS) $(dist_noinst_DATA) \\$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(mount_SOURCES) $(am__mount_static_SOURCES_DIST) \\$/;"	m
+DLLTOOL	Makefile	/^DLLTOOL = false$/;"	m
+DO_PS_FIDDLING	mount.c	45;"	d	file:
+DSYMUTIL	Makefile	/^DSYMUTIL = $/;"	m
+DUMPBIN	Makefile	/^DUMPBIN = $/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ERR_MAX	mount_mntent.h	13;"	d
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EX_FAIL	sundries.h	52;"	d
+EX_FILEIO	sundries.h	51;"	d
+EX_SOFTWARE	sundries.h	49;"	d
+EX_SOMEOK	sundries.h	53;"	d
+EX_SYSERR	sundries.h	48;"	d
+EX_USAGE	sundries.h	47;"	d
+EX_USER	sundries.h	50;"	d
+FGREP	Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+GMSGFMT	Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GTKDOC_CHECK	Makefile	/^GTKDOC_CHECK = $/;"	m
+HTML_DIR	Makefile	/^HTML_DIR = ${datadir}\/gtk-doc\/html$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m
+LD	Makefile	/^LD = \/usr\/bin\/ld$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LIBBLKID_DATE	Makefile	/^LIBBLKID_DATE = 24-Feb-2012$/;"	m
+LIBBLKID_VERSION	Makefile	/^LIBBLKID_VERSION = 2.21.0$/;"	m
+LIBBLKID_VERSION_INFO	Makefile	/^LIBBLKID_VERSION_INFO = 2:0:1$/;"	m
+LIBICONV	Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	Makefile	/^LIBINTL = $/;"	m
+LIBMOUNT_VERSION	Makefile	/^LIBMOUNT_VERSION = 2.21.0$/;"	m
+LIBMOUNT_VERSION_INFO	Makefile	/^LIBMOUNT_VERSION_INFO = 2:0:1$/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LIBTOOL	Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBUUID_VERSION	Makefile	/^LIBUUID_VERSION = 2.21.0$/;"	m
+LIBUUID_VERSION_INFO	Makefile	/^LIBUUID_VERSION_INFO = 4:0:3$/;"	m
+LINK	Makefile	/^LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LIPO	Makefile	/^LIPO = $/;"	m
+LN_S	Makefile	/^LN_S = ln -s$/;"	m
+LTCOMPILE	Makefile	/^LTCOMPILE = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LTLIBICONV	Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/don\/util-linux\/config\/missing --run makeinfo$/;"	m
+MANIFEST_TOOL	Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANS	Makefile	/^MANS = $(dist_man_MANS)$/;"	m
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKINSTALLDIRS	Makefile	/^MKINSTALLDIRS = $(top_builddir)\/config\/mkinstalldirs$/;"	m
+MNT_DETACH	umount.c	55;"	d	file:
+MNT_FORCE	umount.c	49;"	d	file:
+MOUNTLOCK_LINKTARGET	fstab.c	621;"	d	file:
+MOUNTLOCK_LINKTARGET_LTH	fstab.c	622;"	d	file:
+MOUNTLOCK_MAXTIME	fstab.c	640;"	d	file:
+MOUNTLOCK_WAITTIME	fstab.c	643;"	d	file:
+MOUNT_DEVNAME_H	devname.h	2;"	d
+MOUNT_FSTAB_H	fstab.h	2;"	d
+MOUNT_MNTENT_H	mount_mntent.h	2;"	d
+MSGFMT	Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGMERGE	Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MS_BIND	mount_constants.h	32;"	d
+MS_COMMENT	mount.c	123;"	d	file:
+MS_COMMENT_NETDEV	mount.c	127;"	d	file:
+MS_COMMENT_NOFAIL	mount.c	126;"	d	file:
+MS_DIRSYNC	mount_constants.h	23;"	d
+MS_GROUP	mount.c	122;"	d	file:
+MS_I_VERSION	mount_constants.h	60;"	d
+MS_LOOP	mount.c	124;"	d	file:
+MS_MANDLOCK	mount_constants.h	20;"	d
+MS_MGC_MSK	mount_constants.h	72;"	d
+MS_MGC_VAL	mount_constants.h	69;"	d
+MS_MOVE	mount_constants.h	35;"	d
+MS_NOATIME	mount_constants.h	26;"	d
+MS_NOAUTO	mount.c	118;"	d	file:
+MS_NODEV	mount_constants.h	8;"	d
+MS_NODIRATIME	mount_constants.h	29;"	d
+MS_NOEXEC	mount_constants.h	11;"	d
+MS_NOMTAB	mount.c	133;"	d	file:
+MS_NOSUID	mount_constants.h	5;"	d
+MS_NOSYS	mount.c	130;"	d	file:
+MS_OWNER	mount.c	121;"	d	file:
+MS_OWNERSECURE	mount.c	141;"	d	file:
+MS_PRIVATE	mount_constants.h	51;"	d
+MS_PROPAGATION	mount.c	135;"	d	file:
+MS_RDONLY	mount_constants.h	2;"	d
+MS_REC	mount_constants.h	38;"	d
+MS_RELATIME	mount_constants.h	44;"	d
+MS_REMOUNT	mount_constants.h	17;"	d
+MS_SECURE	mount.c	138;"	d	file:
+MS_SHARED	mount_constants.h	57;"	d
+MS_SILENT	mount_constants.h	41;"	d
+MS_SLAVE	mount_constants.h	54;"	d
+MS_STRICTATIME	mount_constants.h	63;"	d
+MS_SYNCHRONOUS	mount_constants.h	14;"	d
+MS_UNBINDABLE	mount_constants.h	48;"	d
+MS_USER	mount.c	120;"	d	file:
+MS_USERS	mount.c	119;"	d	file:
+NCURSES_LIBS	Makefile	/^NCURSES_LIBS = $/;"	m
+NM	Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NMEDIT	Makefile	/^NMEDIT = $/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NROFF	Makefile	/^NROFF = nroff$/;"	m
+OBJDUMP	Makefile	/^OBJDUMP = objdump$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OTOOL	Makefile	/^OTOOL = $/;"	m
+OTOOL64	Makefile	/^OTOOL64 = $/;"	m
+PACKAGE	Makefile	/^PACKAGE = util-linux$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = kzak@redhat.com$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = util-linux$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = util-linux 2.21.43-2f595$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = util-linux$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 2.21.43-2f595$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG_LIBDIR	Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_PATH	Makefile	/^PKG_CONFIG_PATH = $/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	Makefile	/^POSUB = po$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	Makefile	/^PROGRAMS = $(bin_PROGRAMS) $(noinst_PROGRAMS)$/;"	m
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+SED	Makefile	/^SED = sed$/;"	m
+SELINUX_LIBS	Makefile	/^SELINUX_LIBS = $/;"	m
+SELINUX_LIBS_STATIC	Makefile	/^SELINUX_LIBS_STATIC = $/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SOCKET_LIBS	Makefile	/^SOCKET_LIBS = $/;"	m
+SOURCES	Makefile	/^SOURCES = $(mount_SOURCES) $(mount_static_SOURCES) \\$/;"	m
+STRIP	Makefile	/^STRIP = strip$/;"	m
+SUID_CFLAGS	Makefile	/^SUID_CFLAGS = $/;"	m
+SUID_LDFLAGS	Makefile	/^SUID_LDFLAGS = $/;"	m
+SUNDRIES_H	sundries.h	6;"	d
+UMOUNT_NOFOLLOW	umount.c	59;"	d	file:
+UMOUNT_UNUSED	umount.c	63;"	d	file:
+USE_NLS	Makefile	/^USE_NLS = yes$/;"	m
+USE_UNSTABLE_LIBMOUNT_API	fstab.c	154;"	d	file:
+USE_UNSTABLE_LIBMOUNT_API	fstab.h	7;"	d
+VERSION	Makefile	/^VERSION = 2.21.43-2f595$/;"	m
+XALLOC_EXIT_CODE	sundries.h	16;"	d
+XGETTEXT	Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XSLTPROC	Makefile	/^XSLTPROC = \/usr\/bin\/xsltproc$/;"	m
+abs_builddir	Makefile	/^abs_builddir = \/home\/don\/util-linux\/mount$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/don\/util-linux\/mount$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/don\/util-linux$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/don\/util-linux$/;"	m
+ac_ct_AR	Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_DUMPBIN	Makefile	/^ac_ct_DUMPBIN = $/;"	m
+already	mount.c	/^already (const char *spec0, const char *node0) {$/;"	f	file:
+am__DEPENDENCIES_1	Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m
+am__base_list	Makefile	/^am__base_list = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__install_max	Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)" "$(DESTDIR)$(man5dir)" \\$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__mount_static_SOURCES_DIST	Makefile	/^am__mount_static_SOURCES_DIST = mount.c sundries.c \\$/;"	m
+am__mtab_lock_test_SOURCES_DIST	Makefile	/^am__mtab_lock_test_SOURCES_DIST = fstab.c fstab.h mount_mntent.h \\$/;"	m
+am__mv	Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__objects_1	Makefile	/^am__objects_1 = mount-sundries.$(OBJEXT) mount-canonicalize.$(OBJEXT)$/;"	m
+am__objects_10	Makefile	/^am__objects_10 = umount_static-sundries.$(OBJEXT) \\$/;"	m
+am__objects_11	Makefile	/^am__objects_11 = $(am__objects_10) $(am__objects_2) \\$/;"	m
+am__objects_12	Makefile	/^am__objects_12 = umount_static-umount.$(OBJEXT) $(am__objects_11)$/;"	m
+am__objects_2	Makefile	/^am__objects_2 =$/;"	m
+am__objects_3	Makefile	/^am__objects_3 = $(am__objects_1) $(am__objects_2) \\$/;"	m
+am__objects_4	Makefile	/^am__objects_4 = mount_static-sundries.$(OBJEXT) \\$/;"	m
+am__objects_5	Makefile	/^am__objects_5 = $(am__objects_4) $(am__objects_2) \\$/;"	m
+am__objects_6	Makefile	/^am__objects_6 = mount_static-mount.$(OBJEXT) $(am__objects_5) \\$/;"	m
+am__objects_7	Makefile	/^am__objects_7 = mtab_lock_test-sundries.$(OBJEXT) \\$/;"	m
+am__objects_8	Makefile	/^am__objects_8 = umount-sundries.$(OBJEXT) \\$/;"	m
+am__objects_9	Makefile	/^am__objects_9 = $(am__objects_8) $(am__objects_2) \\$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__strip_dir	Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tar	Makefile	/^am__tar = tar --format=posix -chf - "$$tardir"$/;"	m
+am__umount_static_SOURCES_DIST	Makefile	/^am__umount_static_SOURCES_DIST = umount.c sundries.c \\$/;"	m
+am__untar	Makefile	/^am__untar = tar -xf -$/;"	m
+am__v_CCLD_	Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_0	Makefile	/^am__v_CCLD_0 = @echo "  CCLD  " $@;$/;"	m
+am__v_CC_	Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_0	Makefile	/^am__v_CC_0 = @echo "  CC    " $@;$/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN   " $@;$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_lt_	Makefile	/^am__v_lt_ = $(am__v_lt_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_lt_0	Makefile	/^am__v_lt_0 = --silent$/;"	m
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_mount_OBJECTS	Makefile	/^am_mount_OBJECTS = mount-mount.$(OBJEXT) $(am__objects_3) \\$/;"	m
+am_mtab_lock_test_OBJECTS	Makefile	/^am_mtab_lock_test_OBJECTS =  \\$/;"	m
+am_umount_OBJECTS	Makefile	/^am_umount_OBJECTS = umount-umount.$(OBJEXT) $(am__objects_9)$/;"	m
+append_context	mount.c	/^append_context(const char *optname, char *optdata, char **extra_opts)$/;"	f	file:
+append_numopt	mount.c	/^append_numopt(char *s, const char *opt, unsigned int num)$/;"	f	file:
+append_opt	mount.c	/^append_opt(char *s, const char *opt, const char *val)$/;"	f	file:
+bin_PROGRAMS	Makefile	/^bin_PROGRAMS = mount$(EXEEXT) umount$(EXEEXT) $(am__EXEEXT_1) \\$/;"	m
+bindir	Makefile	/^bindir = \/bin$/;"	m
+block_signals	sundries.c	/^block_signals (int how) {$/;"	f
+build	Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = i686$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = pc$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+canonicalize	sundries.c	/^char *canonicalize (const char *path)$/;"	f
+canonicalize_spec	sundries.c	/^canonicalize_spec (const char *path)$/;"	f
+cdrom_setspeed	mount.c	/^cdrom_setspeed(const char *spec) {$/;"	f	file:
+cflags_common	Makefile	/^cflags_common = $(AM_CFLAGS) -I$(ul_libblkid_incdir)$/;"	m
+chdir_to_parent	umount.c	/^static const char *chdir_to_parent(const char *node, char **resbuf)$/;"	f	file:
+check_helper_umountprog	umount.c	/^static int check_helper_umountprog(const char *node,$/;"	f	file:
+check_option	sundries.c	/^check_option(const char *haystack, const char *needle) {$/;"	f	file:
+check_special_mountprog	mount.c	/^check_special_mountprog(const char *spec, const char *node, const char *type, int flags,$/;"	f	file:
+check_special_umountprog	umount.c	/^check_special_umountprog(const char *node,$/;"	f	file:
+clear_flags_opts	mount.c	/^clear_flags_opts(void) {$/;"	f	file:
+clear_string_opts	mount.c	/^clear_string_opts(void) {$/;"	f	file:
+cmask	mount.c	/^  int  cmask;			\/* comments mask *\/$/;"	m	struct:opt_map	file:
+comment_flags	mount.c	/^static int comment_flags;$/;"	v	file:
+complain	umount.c	/^static void complain(int err, const char *dev) {$/;"	f	file:
+complained_dev	umount.c	/^char *complained_dev = NULL;$/;"	v
+complained_err	umount.c	/^int complained_err = 0;$/;"	v
+contains	umount.c	/^contains(const char *list, const char *s) {$/;"	f	file:
+cpy_option	fstab.c	/^cpy_option(const char *optname, char *dest, const char *src)$/;"	f	file:
+create_mtab	mount.c	/^create_mtab (void) {$/;"	f	file:
+data	mount.c	/^       void *data;$/;"	m	struct:mountargs	file:
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+delloop	umount.c	/^int delloop = 0;$/;"	v
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/config\/depcomp$/;"	m
+die	sundries.c	/^void __attribute__ ((noreturn)) die(int err, const char *fmt, ...)$/;"	f
+discard_mntentchn	fstab.c	/^discard_mntentchn(struct mntentchn *mc0) {$/;"	f	file:
+dist_man_MANS	Makefile	/^dist_man_MANS = fstab.5 mount.8 umount.8$/;"	m
+dist_noinst_DATA	Makefile	/^dist_noinst_DATA = $(dist_man_MANS)$/;"	m
+do_mount	mount.c	/^do_mount (struct mountargs *args, int *special, int *status) {$/;"	f	file:
+do_mount_all	mount.c	/^do_mount_all (char *types, char *options, char *test_opts) {$/;"	f	file:
+do_mount_syscall	mount.c	/^do_mount_syscall (struct mountargs *args) {$/;"	f	file:
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+error	sundries.c	/^error (const char *fmt, ...) {$/;"	f
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+external_allowed	mount.c	/^static int external_allowed = 1;$/;"	v	file:
+external_allowed	umount.c	/^int external_allowed = 1;$/;"	v
+fake	mount.c	/^static int fake = 0;$/;"	v	file:
+fake	umount.c	/^static int fake = 0;$/;"	v	file:
+fix_opts_string	mount.c	/^fix_opts_string (int flags, const char *extra_opts,$/;"	f	file:
+flags	mount.c	/^       int flags;$/;"	m	struct:mountargs	file:
+force	umount.c	/^int force = 0;$/;"	v
+free_tested	mount.c	/^free_tested(void) {$/;"	f	file:
+fsprobe_get_label_by_devname	fstab.c	/^char *fsprobe_get_label_by_devname(const char *spec __attribute__((__unused__)))$/;"	f
+fsprobe_get_uuid_by_devname	fstab.c	/^char *fsprobe_get_uuid_by_devname(const char *spec __attribute__((__unused__)))$/;"	f
+fsprobe_parse_spec	fstab.c	/^int fsprobe_parse_spec(const char *spec __attribute__((__unused__)),$/;"	f
+fstab	fstab.c	/^struct mntentchn mounttable, fstab;$/;"	v	typeref:struct:
+fstab_head	fstab.c	/^fstab_head() {$/;"	f
+func_exec_program	mount	/^func_exec_program ()$/;"	f
+func_exec_program	umount	/^func_exec_program ()$/;"	f
+func_exec_program_core	mount	/^func_exec_program_core ()$/;"	f
+func_exec_program_core	umount	/^func_exec_program_core ()$/;"	f
+func_fallback_echo	mount	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	umount	/^func_fallback_echo ()$/;"	f
+func_lt_dump_args	mount	/^func_lt_dump_args ()$/;"	f
+func_lt_dump_args	umount	/^func_lt_dump_args ()$/;"	f
+func_parse_lt_options	mount	/^func_parse_lt_options ()$/;"	f
+func_parse_lt_options	umount	/^func_parse_lt_options ()$/;"	f
+get_mtab_info	fstab.c	/^get_mtab_info(void) {$/;"	f	file:
+get_option	fstab.c	/^get_option(const char *optname, const char *src, size_t *len)$/;"	f
+get_option_value	fstab.c	/^get_option_value(const char *list, const char *s)$/;"	f
+getfs	mount.c	/^getfs(const char *spec, const char *uuid, const char *label)$/;"	f	file:
+getfs_by_devdir	fstab.c	/^getfs_by_devdir (const char *dev, const char *dir) {$/;"	f
+getfs_by_devname	fstab.c	/^getfs_by_devname (const char *devname) {$/;"	f
+getfs_by_dir	fstab.c	/^getfs_by_dir (const char *dir) {$/;"	f
+getfs_by_label	fstab.c	/^getfs_by_label (const char *label) {$/;"	f
+getfs_by_spec	fstab.c	/^getfs_by_spec (const char *spec) {$/;"	f
+getfs_by_uuid	fstab.c	/^getfs_by_uuid (const char *uuid) {$/;"	f
+getmntdevbackward	fstab.c	/^getmntdevbackward (const char *name, struct mntentchn *mcprev) {$/;"	f
+getmntdirbackward	fstab.c	/^getmntdirbackward (const char *name, struct mntentchn *mcprev) {$/;"	f
+getmntfile	fstab.c	/^getmntfile (const char *name) {$/;"	f
+getmntfilebackward	fstab.c	/^getmntfilebackward (const char *name, struct mntentchn *mcprev) {$/;"	f
+getmntoptfile	fstab.c	/^getmntoptfile (const char *file) {$/;"	f
+getusername	getusername.c	/^getusername() {$/;"	f
+got_fstab	fstab.c	/^static int got_fstab = 0;$/;"	v	file:
+got_mtab	fstab.c	/^static int got_mtab = 0;$/;"	v	file:
+guess_fstype_and_mount	mount.c	/^guess_fstype_and_mount(const char *spec, const char *node, const char **types,$/;"	f	file:
+guess_fstype_by_devname	mount.c	/^guess_fstype_by_devname(const char *devname, int *ambivalent)$/;"	f	file:
+handler	fstab.c	/^handler (int sig) {$/;"	f	file:
+has_context_option	mount.c	/^static int has_context_option(char *opts)$/;"	f	file:
+has_label	fstab.c	/^has_label(const char *device, const char *label) {$/;"	f	file:
+has_noauto	mount.c	/^has_noauto (const char *opts) {$/;"	f	file:
+has_uuid	fstab.c	/^has_uuid(const char *device, const char *uuid){$/;"	f	file:
+have_mtab_info	fstab.c	/^static int have_mtab_info = 0;$/;"	v	file:
+hdrs_mount	Makefile	/^hdrs_mount = fstab.h mount_mntent.h mount_constants.h getusername.h$/;"	m
+host	Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = i686$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = pc$/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/don\/util-linux\/config\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+inv	mount.c	/^  int  inv;			\/* true if flag value should be inverted *\/$/;"	m	struct:opt_map	file:
+invuser_flags	mount.c	/^static int invuser_flags;$/;"	v	file:
+is_existing_file	mount.c	/^is_existing_file (const char *s) {$/;"	f	file:
+is_fstab_entry_mounted	mount.c	/^is_fstab_entry_mounted(struct mntentchn *mc, int verbose)$/;"	f	file:
+is_mounted_once	fstab.c	/^is_mounted_once(const char *name) {$/;"	f
+is_mounted_same_loopfile	mount.c	/^is_mounted_same_loopfile(const char *node0, const char *loopfile, unsigned long long offset)$/;"	f	file:
+is_pseudo_fs	sundries.c	/^is_pseudo_fs(const char *type)$/;"	f
+is_readonly	mount.c	/^is_readonly(const char *path)$/;"	f	file:
+is_space_or_tab	mount_mntent.c	/^is_space_or_tab (char c) {$/;"	f	file:
+is_valid_loop	umount.c	/^is_valid_loop(struct mntentchn *mc, struct mntentchn *fs)$/;"	f	file:
+known_fstype_in_procfs	mount.c	/^known_fstype_in_procfs(const char *type)$/;"	f	file:
+lazy	umount.c	/^int lazy = 0;$/;"	v
+ldadd_common	Makefile	/^ldadd_common = $(ul_libblkid_la)$/;"	m
+ldadd_static	Makefile	/^ldadd_static = $(ul_libblkid_la)$/;"	m
+ldflags_static	Makefile	/^ldflags_static = -all-static$/;"	m
+libdir	Makefile	/^libdir = \/lib$/;"	m
+libdirname	Makefile	/^libdirname = lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+list_with_volumelabel	mount.c	/^static int list_with_volumelabel = 0;$/;"	v	file:
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+lock_mtab	fstab.c	/^lock_mtab (void) {$/;"	f
+lockfile_fd	fstab.c	/^static int lockfile_fd = -1;$/;"	v	file:
+longopts	mount.c	/^static struct option longopts[] = {$/;"	v	typeref:struct:option	file:
+longopts	umount.c	/^static struct option longopts[] =$/;"	v	typeref:struct:option	file:
+loop_check	mount.c	/^loop_check(const char **spec, const char **type, int *flags,$/;"	f	file:
+m	fstab.h	/^	struct my_mntent m;$/;"	m	struct:mntentchn	typeref:struct:mntentchn::my_mntent
+main	fstab.c	/^main(int argc, char **argv)$/;"	f
+main	mount.c	/^main(int argc, char *argv[]) {$/;"	f
+main	umount.c	/^main (int argc, char *argv[]) {$/;"	f
+man5dir	Makefile	/^man5dir = $(mandir)\/man5$/;"	m
+man8dir	Makefile	/^man8dir = $(mandir)\/man8$/;"	m
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mask	mount.c	/^  int  mask;			\/* flag mask value *\/$/;"	m	struct:opt_map	file:
+matching_opts	sundries.c	/^matching_opts (const char *options, const char *test_opts) {$/;"	f
+matching_type	sundries.c	/^matching_type (const char *type, const char *types) {$/;"	f
+minfo	mount.c	/^static struct libmnt_table *minfo;	\/* parsed mountinfo file *\/$/;"	v	typeref:struct:libmnt_table	file:
+mk_remount_opts	fstab.c	/^mk_remount_opts(const char *old, const char *instead)$/;"	f	file:
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/config\/mkinstalldirs$/;"	m
+mntFILE	mount_mntent.h	/^} mntFILE;$/;"	t	typeref:struct:mntFILEstruct
+mntFILEstruct	mount_mntent.h	/^typedef struct mntFILEstruct {$/;"	s
+mnt_dir	mount_mntent.h	/^	const char *mnt_dir;$/;"	m	struct:my_mntent
+mnt_freq	mount_mntent.h	/^	int mnt_freq;$/;"	m	struct:my_mntent
+mnt_fsname	mount_mntent.h	/^	const char *mnt_fsname;$/;"	m	struct:my_mntent
+mnt_opts	mount_mntent.h	/^	const char *mnt_opts;$/;"	m	struct:my_mntent
+mnt_passno	mount_mntent.h	/^	int mnt_passno;$/;"	m	struct:my_mntent
+mnt_type	mount_mntent.h	/^	const char *mnt_type;$/;"	m	struct:my_mntent
+mntent_errs	mount_mntent.h	/^	int mntent_errs;$/;"	m	struct:mntFILEstruct
+mntent_file	mount_mntent.h	/^	char *mntent_file;$/;"	m	struct:mntFILEstruct
+mntent_fp	mount_mntent.h	/^	FILE *mntent_fp;$/;"	m	struct:mntFILEstruct
+mntent_lineno	mount_mntent.h	/^	int mntent_lineno;$/;"	m	struct:mntFILEstruct
+mntent_softerrs	mount_mntent.h	/^	int mntent_softerrs;$/;"	m	struct:mntFILEstruct
+mntentchn	fstab.h	/^struct mntentchn {$/;"	s
+mount_CFLAGS	Makefile	/^mount_CFLAGS = $(SUID_CFLAGS) $(cflags_common) $(am__append_7)$/;"	m
+mount_DEPENDENCIES	Makefile	/^mount_DEPENDENCIES = $(ldadd_common) $(am__DEPENDENCIES_2) \\$/;"	m
+mount_LDADD	Makefile	/^mount_LDADD = $(ldadd_common) $(am__append_4) $(am__append_6)$/;"	m
+mount_LDFLAGS	Makefile	/^mount_LDFLAGS = $(SUID_LDFLAGS) $(AM_LDFLAGS)$/;"	m
+mount_LINK	Makefile	/^mount_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+mount_OBJECTS	Makefile	/^mount_OBJECTS = $(am_mount_OBJECTS)$/;"	m
+mount_SOURCES	Makefile	/^mount_SOURCES = \\$/;"	m
+mount_all	mount.c	/^static int mount_all = 0;$/;"	v	file:
+mount_one	mount.c	/^mount_one (const char *spec, const char *node, const char *types,$/;"	f	file:
+mount_quiet	sundries.c	/^int mount_quiet;$/;"	v
+mount_static_DEPENDENCIES	Makefile	/^mount_static_DEPENDENCIES = $(am__append_2) $(am__DEPENDENCIES_2) \\$/;"	m
+mount_static_LDADD	Makefile	/^mount_static_LDADD = $(am__append_2) $(am__append_5) $(am__append_10)$/;"	m
+mount_static_LINK	Makefile	/^mount_static_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+mount_static_OBJECTS	Makefile	/^mount_static_OBJECTS = $(am_mount_static_OBJECTS)$/;"	m
+mountargs	mount.c	/^struct mountargs {$/;"	s	file:
+mountcount	mount.c	/^static int mountcount = 0;$/;"	v	file:
+mounted	mount.c	/^mounted (const char *spec0, const char *node0, struct mntentchn *fstab_mc) {$/;"	f	file:
+mounttable	fstab.c	/^struct mntentchn mounttable, fstab;$/;"	v	typeref:struct:mntentchn
+mounttype	mount.c	/^static int mounttype = 0;$/;"	v	file:
+mtab_does_not_exist	fstab.c	/^mtab_does_not_exist(void) {$/;"	f
+mtab_flags	mount.c	/^static unsigned long mtab_flags;$/;"	v	file:
+mtab_head	fstab.c	/^mtab_head() {$/;"	f
+mtab_is_a_symlink	fstab.c	/^mtab_is_a_symlink(void) {$/;"	f
+mtab_is_writable	fstab.c	/^mtab_is_writable() {$/;"	f
+mtab_lock_test_CPPFLAGS	Makefile	/^mtab_lock_test_CPPFLAGS = -DMAIN_TEST_MTABLOCK $(AM_CPPFLAGS)$/;"	m
+mtab_lock_test_LDADD	Makefile	/^mtab_lock_test_LDADD = $(LDADD)$/;"	m
+mtab_lock_test_OBJECTS	Makefile	/^mtab_lock_test_OBJECTS = $(am_mtab_lock_test_OBJECTS)$/;"	m
+mtab_lock_test_SOURCES	Makefile	/^mtab_lock_test_SOURCES = \\$/;"	m
+mtab_opts	mount.c	/^static char *mtab_opts;$/;"	v	file:
+mtab_update	mount.c	/^static struct libmnt_update *mtab_update;$/;"	v	typeref:struct:libmnt_update	file:
+my_addmntent	fstab.c	/^int my_addmntent (mntFILE *mfp __attribute__((__unused__)),$/;"	f
+my_addmntent	mount_mntent.c	/^my_addmntent (mntFILE *mfp, struct my_mntent *mnt) {$/;"	f
+my_endmntent	fstab.c	/^void my_endmntent (mntFILE *mfp __attribute__((__unused__)))$/;"	f
+my_endmntent	mount_mntent.c	/^my_endmntent (mntFILE *mfp) {$/;"	f
+my_free	sundries.h	26;"	d
+my_free_mc	fstab.c	/^my_free_mc(struct mntentchn *mc) {$/;"	f	file:
+my_getmntent	fstab.c	/^struct my_mntent *my_getmntent (mntFILE *mfp __attribute__((__unused__)))$/;"	f
+my_getmntent	mount_mntent.c	/^my_getmntent (mntFILE *mfp) {$/;"	f
+my_mntent	mount_mntent.h	/^struct my_mntent {$/;"	s
+my_setmntent	fstab.c	/^mntFILE *my_setmntent (const char *file __attribute__((__unused__)),$/;"	f
+my_setmntent	mount_mntent.c	/^my_setmntent (const char *file, char *mode) {$/;"	f
+next	mount.c	/^	struct tried *next;$/;"	m	struct:tried	typeref:struct:tried::tried	file:
+nocanonicalize	sundries.c	/^int nocanonicalize;$/;"	v
+node	mount.c	/^       const char *node;$/;"	m	struct:mountargs	file:
+noinst_PROGRAMS	Makefile	/^noinst_PROGRAMS = mtab_lock_test$(EXEEXT)$/;"	m
+nomtab	mount.c	/^static int nomtab = 0;$/;"	v	file:
+nomtab	umount.c	/^int nomtab = 0;$/;"	v
+nxt	fstab.h	/^	struct mntentchn *nxt, *prev;$/;"	m	struct:mntentchn	typeref:struct:mntentchn::mntentchn
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+opt	mount.c	/^  const char *opt;		\/* option name *\/$/;"	m	struct:opt_map	file:
+opt_comment	mount.c	/^        *opt_encryption, *opt_speed, *opt_comment, *opt_uhelper, *opt_helper;$/;"	v	file:
+opt_encryption	mount.c	/^        *opt_encryption, *opt_speed, *opt_comment, *opt_uhelper, *opt_helper;$/;"	v	file:
+opt_helper	mount.c	/^        *opt_encryption, *opt_speed, *opt_comment, *opt_uhelper, *opt_helper;$/;"	v	file:
+opt_loopdev	mount.c	/^static const char *opt_loopdev, *opt_vfstype, *opt_offset, *opt_sizelimit,$/;"	v	file:
+opt_map	mount.c	/^static const struct opt_map opt_map[] = {$/;"	v	typeref:struct:opt_map	file:
+opt_map	mount.c	/^struct opt_map {$/;"	s	file:
+opt_nofail	mount.c	/^static int opt_nofail;$/;"	v	file:
+opt_offset	mount.c	/^static const char *opt_loopdev, *opt_vfstype, *opt_offset, *opt_sizelimit,$/;"	v	file:
+opt_sizelimit	mount.c	/^static const char *opt_loopdev, *opt_vfstype, *opt_offset, *opt_sizelimit,$/;"	v	file:
+opt_speed	mount.c	/^        *opt_encryption, *opt_speed, *opt_comment, *opt_uhelper, *opt_helper;$/;"	v	file:
+opt_uhelper	mount.c	/^        *opt_encryption, *opt_speed, *opt_comment, *opt_uhelper, *opt_helper;$/;"	v	file:
+opt_vfstype	mount.c	/^static const char *opt_loopdev, *opt_vfstype, *opt_offset, *opt_sizelimit,$/;"	v	file:
+optfork	mount.c	/^static int optfork = 0;$/;"	v	file:
+parse_offset	mount.c	/^parse_offset(const char **opt, uintmax_t *val)$/;"	f	file:
+parse_opt	mount.c	/^parse_opt(char *opt, int *mask, int *inv_user, char **extra_opts) {$/;"	f	file:
+parse_opts	mount.c	/^parse_opts (const char *options, int *flags, char **extra_opts) {$/;"	f	file:
+parse_string_opt	mount.c	/^parse_string_opt(char *s) {$/;"	f	file:
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pfd	mount.c	/^static int pfd = -1;$/;"	v	file:
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/util-linux$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/util-linux$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/util-linux$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/util-linux$/;"	m
+prefix	Makefile	/^prefix = \/usr$/;"	m
+prepare_mtab_entry	mount.c	/^prepare_mtab_entry(const char *spec, const char *node, const char *type,$/;"	f	file:
+prev	fstab.h	/^	struct mntentchn *nxt, *prev;$/;"	m	struct:mntentchn	typeref:struct:mntentchn::
+print_all	mount.c	/^print_all (char *types) {$/;"	f	file:
+print_one	mount.c	/^print_one (const struct my_mntent *me) {$/;"	f	file:
+print_version	mount.c	/^print_version(int rc) {$/;"	f	file:
+procfsloop_mount	mount.c	/^procfsloop_mount(int (*mount_fn)(struct mountargs *, int *, int *),$/;"	f	file:
+procfsnext	mount.c	/^procfsnext(FILE *procfs) {$/;"	f	file:
+progname	sundries.c	/^char *progname;$/;"	v
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+read_fstab	fstab.c	/^read_fstab() {$/;"	f	file:
+read_mntentchn	fstab.c	/^read_mntentchn(mntFILE *mfp, const char *fnam, struct mntentchn *mc0) {$/;"	f	file:
+read_mounttable	fstab.c	/^read_mounttable() {$/;"	f	file:
+read_mounttable	fstab.c	/^static void read_mounttable()$/;"	f	file:
+readonly	mount.c	/^static int readonly = 0;$/;"	v	file:
+readwrite	mount.c	/^static int readwrite = 0;$/;"	v	file:
+remount	umount.c	/^int remount = 0;$/;"	v
+remove_context_options	mount.c	/^static char *remove_context_options(char *opts)$/;"	f	file:
+reset_mtab_info	fstab.c	/^reset_mtab_info(void) {$/;"	f
+restricted	mount.c	/^static int restricted = 1;$/;"	v	file:
+restricted	umount.c	/^int restricted = 1;$/;"	v
+restricted_check	mount.c	/^restricted_check(const char *spec, const char *node, int *flags, char **user) {$/;"	f	file:
+ruman1dir	Makefile	/^ruman1dir = ${mandir}\/ru\/man1$/;"	m
+sbindir	Makefile	/^sbindir = \/sbin$/;"	m
+set_pfd	mount.c	/^set_pfd(char *s) {$/;"	f	file:
+set_tested	mount.c	/^set_tested(const char *fstype) {$/;"	f	file:
+setlkw_timeout	fstab.c	/^setlkw_timeout (int sig __attribute__ ((__unused__))) {$/;"	f	file:
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+signals_have_been_setup	fstab.c	/^static int signals_have_been_setup = 0;$/;"	v	file:
+skip	mount.c	/^  int  skip;			\/* skip in mtab option string *\/$/;"	m	struct:opt_map	file:
+skip	mount.c	/^  int skip;$/;"	m	struct:string_opt_map	file:
+skip_spaces	mount_mntent.c	/^skip_spaces(char *s) {$/;"	f	file:
+sloppy	mount.c	/^static int sloppy = 0;$/;"	v	file:
+spec	mount.c	/^       const char *spec;$/;"	m	struct:mountargs	file:
+spec_to_devname	devname.c	/^spec_to_devname(const char *spec)$/;"	f
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcs_common	Makefile	/^srcs_common = \\$/;"	m
+srcs_mount	Makefile	/^srcs_mount = \\$/;"	m
+streq	fstab.c	25;"	d	file:
+streq	sundries.h	25;"	d
+streq_quoted	fstab.c	/^streq_quoted(const char *quoted, const char *unquoted)$/;"	f	file:
+string_opt_map	mount.c	/^static struct string_opt_map {$/;"	s	file:
+string_opt_map	mount.c	/^} string_opt_map[] = {$/;"	v	typeref:struct:string_opt_map	file:
+strip_quotes	mount.c	/^strip_quotes(char *str)$/;"	f	file:
+subdir	Makefile	/^subdir = mount$/;"	m
+subst_string	mount.c	/^subst_string(const char *s, const char *sub, int sublen, const char *repl) {$/;"	f	file:
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tag	mount.c	/^  char *tag;$/;"	m	struct:string_opt_map	file:
+target_alias	Makefile	/^target_alias = $/;"	m
+top_build_prefix	Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = ..$/;"	m
+top_srcdir	Makefile	/^top_srcdir = ..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+tried	mount.c	/^static struct tried {$/;"	s	file:
+tried	mount.c	/^} *tried = NULL;$/;"	v	typeref:struct:tried	file:
+try_mount_one	mount.c	/^try_mount_one (const char *spec0, const char *node0, const char *types0,$/;"	f	file:
+type	mount.c	/^	char *type;$/;"	m	struct:tried	file:
+type	mount.c	/^       const char *type;$/;"	m	struct:mountargs	file:
+ul_libblkid_builddir	Makefile	/^ul_libblkid_builddir = $(top_builddir)\/libblkid\/src$/;"	m
+ul_libblkid_incdir	Makefile	/^ul_libblkid_incdir = $(ul_libblkid_builddir)$/;"	m
+ul_libblkid_la	Makefile	/^ul_libblkid_la = $(top_builddir)\/libblkid\/src\/libblkid.la$/;"	m
+ul_libblkid_srcdir	Makefile	/^ul_libblkid_srcdir = $(top_srcdir)\/libblkid\/src$/;"	m
+ul_libmount_builddir	Makefile	/^ul_libmount_builddir = $(top_builddir)\/libmount\/src$/;"	m
+ul_libmount_incdir	Makefile	/^ul_libmount_incdir = $(ul_libmount_builddir)$/;"	m
+ul_libmount_la	Makefile	/^ul_libmount_la = $(top_builddir)\/libmount\/src\/libmount.la$/;"	m
+ul_libmount_srcdir	Makefile	/^ul_libmount_srcdir = $(top_srcdir)\/libmount\/src$/;"	m
+ul_libuuid_builddir	Makefile	/^ul_libuuid_builddir = $(top_builddir)\/libuuid\/src$/;"	m
+ul_libuuid_la	Makefile	/^ul_libuuid_la = $(top_builddir)\/libuuid\/src\/libuuid.la$/;"	m
+ul_libuuid_srcdir	Makefile	/^ul_libuuid_srcdir = $(top_srcdir)\/libuuid\/src$/;"	m
+umount2	umount.c	/^umount2(const char *path, int flags) {$/;"	f	file:
+umount_CFLAGS	Makefile	/^umount_CFLAGS = $(SUID_CFLAGS) $(cflags_common) $(am__append_9)$/;"	m
+umount_DEPENDENCIES	Makefile	/^umount_DEPENDENCIES = $(ldadd_common) $(am__append_8)$/;"	m
+umount_LDADD	Makefile	/^umount_LDADD = $(ldadd_common) $(am__append_8)$/;"	m
+umount_LDFLAGS	Makefile	/^umount_LDFLAGS = $(SUID_LDFLAGS) $(AM_LDFLAGS)$/;"	m
+umount_LINK	Makefile	/^umount_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+umount_OBJECTS	Makefile	/^umount_OBJECTS = $(am_umount_OBJECTS)$/;"	m
+umount_SOURCES	Makefile	/^umount_SOURCES = umount.c $(srcs_mount)$/;"	m
+umount_all	umount.c	/^umount_all (char *types, char *test_opts) {$/;"	f	file:
+umount_file	umount.c	/^umount_file (char *arg) {$/;"	f	file:
+umount_nofollow_support	umount.c	/^static int umount_nofollow_support(void)$/;"	f	file:
+umount_one	umount.c	/^umount_one (const char *spec, const char *node, const char *type,$/;"	f	file:
+umount_one_bw	umount.c	/^umount_one_bw (const char *file, struct mntentchn *mc0) {$/;"	f	file:
+umount_static_LINK	Makefile	/^umount_static_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+umount_static_OBJECTS	Makefile	/^umount_static_OBJECTS = $(am_umount_static_OBJECTS)$/;"	m
+unlock_mtab	fstab.c	/^unlock_mtab (void) {$/;"	f
+update_mtab	fstab.c	/^update_mtab (const char *dir, struct my_mntent *instead) {$/;"	f
+update_mtab_entry	mount.c	/^static void update_mtab_entry(int flags)$/;"	f	file:
+update_mtab_entry	mount.c	/^update_mtab_entry(const char *spec, const char *node, const char *type,$/;"	f	file:
+usage	mount.c	/^usage (FILE *fp, int n) {$/;"	f	file:
+usage	umount.c	/^usage (FILE *fp, int n)$/;"	f	file:
+usersubst	mount.c	/^usersubst(const char *opts) {$/;"	f	file:
+usrbin_execdir	Makefile	/^usrbin_execdir = ${exec_prefix}\/bin$/;"	m
+usrlib_execdir	Makefile	/^usrlib_execdir = ${exec_prefix}\/lib$/;"	m
+usrsbin_execdir	Makefile	/^usrsbin_execdir = ${exec_prefix}\/sbin$/;"	m
+valptr	mount.c	/^  const char **valptr;$/;"	m	struct:string_opt_map	file:
+var_mtab_does_not_exist	fstab.c	/^static int var_mtab_does_not_exist = 0;$/;"	v	file:
+var_mtab_is_a_symlink	fstab.c	/^static int var_mtab_is_a_symlink = 0;$/;"	v	file:
+verbose	sundries.c	/^int verbose;$/;"	v
+verbose_mount_info	mount.c	/^verbose_mount_info(const char *spec, const char *node, const char *type,$/;"	f	file:
+was_tested	mount.c	/^was_tested(const char *fstype) {$/;"	f	file:
+we_created_lockfile	fstab.c	/^static int we_created_lockfile = 0;$/;"	v	file:
+xstrconcat3	sundries.c	/^xstrconcat3 (char *s, const char *t, const char *u) {$/;"	f
+xstrconcat4	sundries.c	/^xstrconcat4 (char *s, const char *t, const char *u, const char *v) {$/;"	f
+xstrndup	sundries.c	/^xstrndup (const char *s, int n) {$/;"	f

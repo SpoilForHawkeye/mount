@@ -1,0 +1,42 @@
+i386_sys_types.o: i386_sys_types.c ../config.h common.h ../include/nls.h \
+ /usr/include/locale.h /usr/include/features.h \
+ /usr/include/i386-linux-gnu/bits/predefs.h \
+ /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6.1/include/stddef.h \
+ /usr/include/i386-linux-gnu/bits/locale.h /usr/include/xlocale.h \
+ /usr/include/libintl.h /usr/include/langinfo.h /usr/include/nl_types.h
+
+../config.h:
+
+common.h:
+
+../include/nls.h:
+
+/usr/include/locale.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/bits/predefs.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6.1/include/stddef.h:
+
+/usr/include/i386-linux-gnu/bits/locale.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/libintl.h:
+
+/usr/include/langinfo.h:
+
+/usr/include/nl_types.h:
